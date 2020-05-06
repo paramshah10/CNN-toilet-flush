@@ -1,4 +1,4 @@
-# Toilet-Flush-Convolutional-Neural-Net
+# CNN-toilet-flush
 
 Constructed a convolutional neural network to classify audio files as being one of 
 the classes [toilet, urinal, sink, unknown].  First a test model was built and trained 
@@ -10,7 +10,6 @@ clip accross the 30 second input window used as the feature vector.  Currently w
 on collecting &amp; augmenting data to build the final model.  The purpose of this 
 project is to automate the detection and counting of toilet/urinal/sink uses in a given 
 time period from an audio device so that the amount of water used by a given bathroom 
-over a specified time period can be calculated. This project was motivated by work I'm 
-doing for Bruin Home Solutions, a sustainability club I run at UCLA.  
+over a specified time period can be calculated.
 
 Dataset: https://urbansounddataset.weebly.com/download-urbansound.html
